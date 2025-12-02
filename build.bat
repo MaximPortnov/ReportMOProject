@@ -5,7 +5,7 @@ REM === Configuration ===
 set MYOFFICE_PATH=C:\Program Files\MyOffice
 set SOURCE_DIR=%~dp0src
 set BIN_DIR=%~dp0bin
-set PACKAGE_NAME=test.mox
+set PACKAGE_NAME=report.mox
 
 REM === Check MyOffice path ===
 if not exist "%MYOFFICE_PATH%\MySpreadsheet.exe" (

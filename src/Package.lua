@@ -1,8 +1,8 @@
 local Package = {
-    vendor = "МойОфис",
+    vendor = "JeKa",
     description = "Это пример расширения для МойОфис",
-    extensionID = "test",
-    extensionName = "Тестовое Расширение 1",
+    extensionID = "report",
+    extensionName = "отчет по возможностям",
     extensionVersion = {
         major = 1,
         minor = 1,
